@@ -8,6 +8,10 @@ Color-app needs to be configured by environment variables:
     - COLOR1 - this is a font color
     - COLOR2 - this is a bg color
 
+## Port notice
+
+This application is run on port number 5000.
+
 ## Simple usage:
 
 ```bash
