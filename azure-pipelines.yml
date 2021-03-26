@@ -12,7 +12,7 @@ variables:
   tag: '$(Build.BuildId)'
 
 pool:
-name: 'linux'
+  name: 'linux'
 
 stages:
 - stage: Build
